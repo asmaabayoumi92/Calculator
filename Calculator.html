@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Calculator
+        </title>
+        <link rel="stylesheet" href="Calculator.css">
+
+    </head>
+    <body class="body">
+        <div class="main">
+            <h2>
+                My Beautiful JS Calculator
+            </h2>
+            <form  name="form" class="form">
+
+                             
+                <input type="text" name="idx" class="idx"> <br>
+
+                <input type="button" value="C" class="button1" onclick="clean();">
+                <input type="button" value="Del" class="button18" onclick="back();"> <br> 
+
+
+                <input type="button" value="+" class="button2" onclick="insert('+');">
+                <input type="button" value="1" class="button3" onclick="insert(1);">
+                <input type="button" value="2" class="button4" onclick="insert(2);">
+                <input type="button" value="3" class="button5" onclick="insert(3);"> <br>
+
+                <input type="button" value="-" class="button6" onclick="insert('-');">
+                <input type="button" value="4" class="button7" onclick="insert(4);">
+                <input type="button" value="5" class="button8" onclick="insert(5);">
+                <input type="button" value="6" class="button9" onclick="insert(6);"> <br>
+
+                <input type="button" value="*" class="button10" onclick="insert('*');">
+                <input type="button" value="7" class="button11" onclick="insert(7);">
+                <input type="button" value="8" class="button12" onclick="insert(8);">
+                <input type="button" value="9" class="button13" onclick="insert(9);"> <br>
+
+                <input type="button" value="/" class="button14"  onclick="insert('/');">
+                <input type="button" value="." class="button15" onclick="insert('.');">
+                <input type="button" value="0" class="button16" onclick="insert(0);" >
+                <input type="button" value="=" class="button17" onclick="equal();"> <br>
+                
+            </form>
+        </div>
+        <script src="calculator.js"></script>
+
+    </body>
+</html>

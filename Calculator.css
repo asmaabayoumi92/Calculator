@@ -1,0 +1,193 @@
+.body
+{
+    background-color: rgb(218, 207, 238);
+
+}
+.main
+{
+    margin: 120px auto;
+    background-color: rgb(246, 241, 233);
+    width: 350px;
+    height: 355px;
+    padding: 10px;
+
+}
+h2
+{
+    padding: 20px 30px;
+    margin: 1px auto;
+}
+.form
+{
+    border-style: double ;
+    border-width: 6px;
+    border-color: black;
+    
+}
+.button1
+{
+    width: 95px;
+    height: 40px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(243, 186, 115);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+    
+}
+.idx
+{
+     width: 320px;
+     height: 60px;
+     margin: 6px 5px 6px 5px;
+}
+
+.button18
+{
+    width: 95px;
+    height: 40px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+    
+}
+.button2
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
+.button6
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
+.button10
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
+.button14
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
+.button3
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button4
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button5
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button7
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button8
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button9
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button11
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button12
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button13
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button16
+{
+    width: 75px;
+    height: 30px;
+    padding: 5px;
+    margin: 3px;
+}
+.button15
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
+.button17
+{
+    width: 75px;
+    height: 30px;
+    border-style: solid;
+    border-color: rgb(119, 118, 121);
+    background-color: rgb(180, 167, 204);
+    padding: 5px;
+    margin: 3px;
+    font-size: medium;
+}
